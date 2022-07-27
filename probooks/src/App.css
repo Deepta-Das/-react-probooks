@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  text-align: center;
+}
+
+.hide{
+  display: none;
+}
+
+.unhide{
+  display: contents;
+}
